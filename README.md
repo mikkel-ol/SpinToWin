@@ -2,6 +2,8 @@
 
 This is a simple addon for World of Warcraft Classic, that yells when a proc of Bladestorm (Ravager item) is gotten.
 
+<img src="https://media.forgecdn.net/avatars/130/458/636460205549127215.png" width="14px" height="14px"> [CurseForge](https://www.curseforge.com/wow/addons/spin-to-win)
+
 ## Pull those mobs into me!
 
 Intended for dungeon use when people/tanks pull the mobs away from you, JUST as you get your proc..
