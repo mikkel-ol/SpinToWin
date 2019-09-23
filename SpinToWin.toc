@@ -1,0 +1,9 @@
+## Interface: 11302
+## Title: SpinToWin
+## Author: mikkel-ol, 2019
+## Notes: Get people to pull mobs into your spin!
+## Version: 1.0
+## SavedVariables:
+
+# main
+main.lua
